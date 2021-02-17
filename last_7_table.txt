@@ -1,0 +1,8 @@
+| 3 | 456 |  2019 | Israel | ISR | Bulgaria | BGR |  6506 |  264000 |
+| - | --- | ----- | ------ | --- | -------- | --- | ----- | ------- |
+| 3 | 457 | 2,019 | Israel | ISR | Bulgaria | BGR | 8,519 |  30,000 |
+| 3 | 458 | 2,019 | Israel | ISR | Bulgaria | BGR | 6,114 | 147,000 |
+| 3 | 459 | 2,019 | Israel | ISR | Bulgaria | BGR | 8,467 | 134,000 |
+| 3 | 460 | 2,019 | Israel | ISR | Bulgaria | BGR | 1,901 |  23,000 |
+| 3 | 461 | 2,019 | Israel | ISR | Bulgaria | BGR | 8,302 | 181,000 |
+| 3 | 462 | 2,019 | Israel | ISR | Bulgaria | BGR | 6,113 |   6,000 |
